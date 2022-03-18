@@ -13,73 +13,53 @@ permalink: /resume/
 </div>
 
 
-## Experience
+## 경력사항
 
-`2017-`
-__Data Engineering Intern, Zendesk__ Work alongside the data science team on the machine learning driven Automatic Answers and Satisfaction Prediction products.
+`2020`
+__(주)제이엘케이, 인턴__ <br>
+데이터 전처리, 데이터 라벨링&크롤링, Homography 프로젝트에 참여.
 
-`2016`
-__Web Developer, RMIT Melbourne__ Integrated xAPI into existing RMIT web tools, and worked on changing student’s relationship with their learning data.
+`2020-21`
+__광운대학교 인제니움학부__ <br>
+수업 조교로 참여함.
 
-`2016`
-__Research Assistant, RMIT Melbourne__ Used Machine Learning and NLP libraries to predict language acquisition in second language learners.
+`2016-17`
+__(주)필라웨어, 컨설팅 서비스팀 / 주임 / 1년차__ <br>
+KB카드 콜센터 VDI 구축, 삼성증권 지문관리 솔루션 설치, 롯데카드 VDI VOC 프로젝트에 참여.
 
-__Tutor (Computer Science), Indigenous Tutorial Assistance Scheme__ Tutor students in algorithm design and analysis, database concepts, and software engineering fundamentals.
+## 학력사항
 
-## Education
+`2020-22`
+__광운대학교 스마트융합대학원(공학석사)__ 정보시스템전공
 
-`2015-`
-__Bachelor of Software Engineering, RMIT Melbourne__
+`2018-20`
+__광운대학교 정보과학교육원(공학사)__ 컴퓨터공학 (정보보호전공)
 
-***GPA 3.9:***  100 - Web Programming, 97 - Soft. Eng. Fundamentals, 93 - Data Comm, 89 - Discrete Math
+`2014-17`
+__세명컴퓨터 고등학교__ 전문계 (스마트 보안 솔루션과)
 
-`2011-13`
-__Bachelor of Environments (Architecture), University of Melbourne__
+## 논문
+`2022`
+__졸업논문__ XLM-R과 신경망 조합을 이용한 한국어 영화 리뷰 다중 감성 분석
 
-`2007-10`
-__Melbourne High School__ 95.80 / 100 ATAR
+`2021`
+Sentiment analysis of Korean movie reviews using XLM-R.
 
-## University Leadership & Involvement
+`2020`
+Artificial neural network algorithm comparison for exchange rate prediction.
 
-`2016-`
-__President, Computer Science & IT Society__ Rebranded the club, completed its website and have set up new student engagement initiatives.
+## Awards & Certificate
+2014.07	리눅스마스터2급
 
-`2014-15`
-__Lead Investment & IT Officer, Foresight Investment__ With over $50,000 AUM the group generated annualised returns of greater than 11% while the ASX200 went down.
+2015.12	컴퓨터활용능력2급
 
-`2016-`
-__Founder & Vice President - RMIT Programming Club__ Setup club’s communication channels.branding, and website. Created leadership group and now run meetings biweekly
+2018.06	네트워크관리사2급
 
-## Projects
+2018.12	공인행정관리사3급
 
-### Insults
+2019.08	정보처리산업기사
 
-Uses Machine Learning to detect if online comments are insulting or derogatory. In the spirit of Google’s Perspective Project.
-
-### aimacode/aima-(java|python)
-Implemented the HITS (python and java) algorithm and CYK Parsing algorithm (java).
-
-### sudkamp-langs-machines=(java|python)
-
-Implementing computing theory algorithms from Sudkamp’s Languages and Machines textbook in Python and Java.
-
-__* Please see my Github profile for other projects and pull-request contributions.__
-
-## Awards
-
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
-
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
+2021.02	Best Paper Award에 선정
 
 ## Technical
 

@@ -7,23 +7,15 @@ flicker: true
 headshot: /images/headshot.jpg
 ---
 
-I am a Software Engineering student at [RMIT University](https://www.rmit.edu.au/) in Melbourne. Starting November 2016 I will be interning with [Zendesk](https://www.zendesk.com/) in a Data Engineering role.
+"인공지능 및 데이터 분석"<br>
+인공지능에 대한 관심이 높아지면서 대학원을 진학하게 되었고, 대학원에서 책(기계학습, 김도형의 데이터 사이언스 스쿨 수학 편)과 논문(LSTM, CNN, YOLO)들을 찾아보면서 인공지능의 이론에 대하여 공부하였습니다. 실무적인 연습을 하고자 Python과 Keras, PyTorch라이브러리 등을 활용하여, 환율 데이터를 활용한 원화 예측, 이미지 데이터를 활용한 분류 등을 공부하였습니다. 데이터 분석을 하기 위해 R과 Python을 활용하였고 kaggle과 크롤링한 데이터를 활용하여 분석 및 예측 문제를 해결하였습니다.
 
-I'm currently doing a lot of work building developer communities around my University. I'll chase any opportunity to improve collaboration and outreach in the tech. industry.
+"자연어 처리"<br>
+공부를 하던 중에 자연어 처리 분야를 알게 되었고 이 분야에 흥미를 갖게 되어 여러 논문들(Transformer, BERT, XLM-RoBERTa)을 찾아보고 세미나를 하였고, 이를 Python을 활용하여 구현을 해보면서 위 분야에 더욱 알게 되었습니다. 저는 자연어 처리 분야중 감성분석에 관심이 생겼고 다양한 사람의 감성을 분석하고자 해당 감성에 맞는 데이터를 크롤링하여 제 연구에 사용하였습니다. 크롤링한 데이터가 연구에 적합한지 확인하기 위해 샘플 데이터를 추출하여 확인하였고, 데이터에 들어있는 오타 등을 사전을 만들어 Python으로 처리하였습니다. 감성 분석의 모델은 사전 학습 된 XLM-RoBERTa를 Fine-tuning 하였고 작은 learning rate 을 활용하여 제 데이터로 재학습하였습니다. 위 연구를 바탕으로 학위논문을 작성하였습니다.
 
-My main areas of interest are in NLP, Agent-Oriented Programming, and Computational Dialectics.
+"커뮤니케이션의 중요도"<br>
+대학원과 인턴생활을 병행하면서 다양한 경험을 하였는데 대표적으로 커뮤니케이션이 중요하다는 것을 깨달았습니다. 인턴 생활 중 Homography를 통해 이미지 데이터를 가공하는 업무를 맡았습니다. 업무를 수행하는데 있어 상급자에게 주기적으로 보고를 하였고, 이를 통해 상급자가 원하는 결과물을 얻을 수 있었습니다. 대학원 생활도 마찬가지로 교수님과 주기적으로 제가 하는 연구 분야와 현재의 상황을 얘기하면서 저의 대학원 생활을 어려움 없이 보낼 수 있었습니다. 입사 후 제가 모르는 분야 혹은 어려운 분야가 주어지더라도 상급자, 혹은 담당자와 많은 대화를 나누면서 이를 해결하겠습니다. 
 
-{% if site.show_talks_section %}
-## Talks
-
-- Put something here!
-{% endif %}
-
-{% if site.show_workshops_section %}
-## Workshops
-
-- Put something here!
-{% endif %}
 
 
 <style>
